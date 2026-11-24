@@ -39,10 +39,10 @@ Search the project for `TODO` to find everything you still needqua to fill in.
 
 ## Publish to GitHub Pages (free)
 
-1.  Create a GitHub account and a new public repository, for example `congyidai-site`.
+1.  Create a GitHub account and a new public repository, for example `CD-site`.
 2.  Put this folder in that repository (GitHub Desktop is the easiest way).
 3.  In a terminal in this folder, run `quarto publish gh-pages`. The first time, it asks you to confirm.
-4.  The site goes live at `https://<your-username>.github.io/congyidai-site/`.
+4.  The site goes live at `https://congyidai1.github.io/CD-site/`.
 5.  To update the site later: edit, then run `quarto publish gh-pages` again.
 
 ## Connect congyidai.com
