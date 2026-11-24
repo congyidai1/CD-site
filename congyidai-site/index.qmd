@@ -1,0 +1,38 @@
+---
+title: "Congyi Dai"
+subtitle: "Postdoctoral Associate, Walsh School of Foreign Service, Georgetown University"
+pagetitle: "Congyi Dai"
+# TODO: replace with images/headshot.jpg (square, at least 600 x 600 px)
+image: images/headshot.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 14em
+  links:
+    # TODO: fill in the real addresses
+    - icon: envelope
+      text: Email
+      href: "cd1479@georgetown.edu"
+    - icon: mortarboard
+      text: Google Scholar
+      href: "https://scholar.google.com/citations?user=z5avl2AAAAAJ&hl=en&oi=ao"
+    - icon: file-earmark-text
+      text: CV
+      href: files/Dai_CV.pdf
+    - icon: pencil-square
+      text: Substack
+      href: "https://substack.com"
+---
+Welcome!
+
+I study how China's dominance in clean energy manufacturing, critical mineral processing, and overseas infrastructure finance is reshaping the global energy transition, with a focus on Africa and the wider Global South. My work draws on economics, political science, and environmental studies, and combines causal inference with geospatial analysis of large geocoded datasets.
+
+I am a Postdoctoral Associate in the Science, Technology and International Affairs (STIA) program at Georgetown University's Walsh School of Foreign Service, where I work with Joanna Lewis on US-China competition in clean energy supply chains. I received my Ph.D. from the University of Michigan School for Environment & Sustainability in 2026. My dissertation, *China's Role in Shaping Energy Access in Africa*, examines how Chinese development finance shapes both access to critical minerals and access to electricity across the continent. Before Georgetown, I was a Global China Pre-doctoral Fellow at Boston University Global Development Policy Center. I have also worked in the World Bank in Washington D.C and United Nations Development Programme in Port Louis, Mauritius.
+
+## Research interests
+
+Chinese development finance · Critical minerals · Energy access · US-China clean energy supply chain · Geospatial methods · China in Africa · Energy/Environmental Policy
+
+
+
+<!-- TODO: add earlier degrees from your CV -->

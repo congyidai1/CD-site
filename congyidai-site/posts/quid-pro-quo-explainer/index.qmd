@@ -1,0 +1,26 @@
+---
+title: "Do Chinese loans come with mineral strings attached?"
+description: "A plain-language guide to my paper on Chinese finance and critical mineral access in Africa."
+date: 2026-11-23
+categories: [critical minerals, China-Africa, development finance]
+---
+
+<!-- STARTER DRAFT: revise in your own voice before publishing. -->
+
+Copper, cobalt, and nickel are the raw materials of the energy transition. They go into power lines, batteries, and electric motors, and a large share of the world's supply sits in African countries. Over the past two decades, Chinese firms have bought into many of these mines. Over the same period, Chinese lenders have become one of Africa's largest sources of development finance. Are the two connected?
+
+## What I did
+
+I built a panel of 53 African countries tracking Chinese loan commitments alongside Chinese acquisitions of mines producing ten minerals. I then asked whether countries receiving more Chinese lending in a given year were also more likely to see Chinese mine acquisitions, after accounting for stable differences between countries and for shocks that hit the whole continent in a given year.
+
+## What I found
+
+The connection is strong for the minerals that matter most for clean energy: copper, cobalt, nickel, and platinum group metals. Uranium follows a different pattern, tracking grant-like aid instead of loans. Chinese lending also shows a high tolerance for political risk, reaching fragile states that other lenders often avoid.
+
+As a check, I ran the same analysis using US foreign assistance. If my results only reflected the fact that mineral-rich countries attract outside money of all kinds, US aid should show a similar pattern. It does not.
+
+## What it means
+
+I don't claim that loans *cause* mine acquisitions, or the other way around. The better reading is that finance and mineral access are negotiated together, as two parts of the same strategic relationship. That matters for African governments negotiating with Chinese partners, and for the United States and others now trying to build their own critical mineral partnerships.
+
+You can read the full [working paper here](../../research.qmd).

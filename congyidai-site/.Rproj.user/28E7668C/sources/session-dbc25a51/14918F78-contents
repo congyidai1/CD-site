@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - files/
+
+website:
+  title: "Congyi Dai"
+  site-url: https://congyidai.com
+  description: "Congyi Dai studies China, critical minerals, and the clean energy transition in Africa and the Global South."
+  favicon: images/headshot.svg
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: writing.qmd
+        text: Writing
+      - href: cv.qmd
+        text: CV
+      - href: media.qmd
+        text: Media Mentions
+    right:
+      - text: Substack
+        href: https://substack.com/@congyidai
+      - icon: rss
+        href: writing.xml
+  page-footer:
+    left: "© 2026 Congyi Dai"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true

@@ -1,0 +1,12 @@
+---
+title: "Writing"
+subtitle: "Longer pieces on my research. Shorter posts live on my [Substack](https://substack.com)."
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  feed: true
+  date-format: "MMMM D, YYYY"
+title-block-banner: false
+---

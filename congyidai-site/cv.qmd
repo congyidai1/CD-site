@@ -1,0 +1,11 @@
+---
+title: "CV"
+---
+
+[Download my CV (PDF)](files/Dai_CV.pdf)
+
+<!-- To update: replace files/Dai_CV.pdf with your latest CV, keeping the same file name, then re-render. -->
+
+<object data="files/Dai_CV.pdf" type="application/pdf" width="100%" height="900px">
+  <p>Your browser cannot display the PDF here. <a href="files/Dai_CV.pdf">Download it instead.</a></p>
+</object>

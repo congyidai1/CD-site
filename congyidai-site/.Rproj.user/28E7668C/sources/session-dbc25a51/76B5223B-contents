@@ -1,0 +1,29 @@
+---
+title: "Media"
+subtitle: "Coverage of my research and commentary in the press."
+listing:
+  id: media-list
+  contents: media.yml
+  type: table
+  sort: "date desc"
+  date-format: "MMM YYYY"
+  fields: [date, outlet, title, format]
+  field-display-names:
+    outlet: "Outlet"
+    title: "Piece"
+    format: "Type"
+  sort-ui: false
+  filter-ui: false
+---
+
+<!--
+To add a mention, open media.yml and copy one entry.
+Each entry needs: title, outlet, date (YYYY-MM-DD), format, and path (the link).
+The table sorts itself by date, newest first.
+-->
+
+```{=html}
+<style>
+  #listing-media-list td:first-child { white-space: nowrap; }
+</style>
+```
