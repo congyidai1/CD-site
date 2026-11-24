@@ -7,6 +7,7 @@ I examine how great power competition over global energy transition, waged throu
 ## Working papers
 
 ::: {.paper}
+![](images/transition-mineral-finance.png){.paper-thumb fig-alt="Map of nighttime light changes in Zambia"}
 [Is There a Development Quid Pro Quo? Chinese Finance and Critical Mineral Access in Africa]{.paper-title}\
 [Revise and resubmit]{.paper-meta}
 
@@ -16,6 +17,7 @@ The impact of China’s engagement in Africa has drawn much attention in scholar
 :::
 
 ::: {.paper}
+![](images/zambia.png){.paper-thumb fig-alt="Chinese-financed-solar-farm-in-zambia"}
 [Why Energy Infrastructure Investment Delivers Delayed Electricity Access]{.paper-title}\
 [with J. Guan and P. Jagger · Under review]{.paper-meta}
 
@@ -23,6 +25,7 @@ Nearly 600 million people in sub-Saharan Africa lack access to electricity, even
 :::
 
 ::: {.paper}
+![](images/push-pull.png){.paper-thumb fig-alt="Push-Pull-framework"}
 [Industrial Electrification in the Global South: China's Potential Role]{.paper-title}\
 [with C. Springer]{.paper-meta}
 
