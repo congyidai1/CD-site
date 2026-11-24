@@ -12,7 +12,7 @@ about:
     # TODO: fill in the real addresses
     - icon: envelope
       text: Email
-      href: "cd1479@georgetown.edu"
+      href: "mailto:cd1479@georgetown.edu"
     - icon: mortarboard
       text: Google Scholar
       href: "https://scholar.google.com/citations?user=z5avl2AAAAAJ&hl=en&oi=ao"
@@ -21,9 +21,8 @@ about:
       href: files/Dai_CV.pdf
     - icon: pencil-square
       text: Substack
-      href: "https://substack.com"
+      href: "https://substack.com/@congyidai"
 ---
-Welcome!
 
 I study how China's dominance in clean energy manufacturing, critical mineral processing, and overseas infrastructure finance is reshaping the global energy transition, with a focus on Africa and the wider Global South. My work draws on economics, political science, and environmental studies, and combines causal inference with geospatial analysis of large geocoded datasets.
 
