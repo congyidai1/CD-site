@@ -46,7 +46,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-6ef33cdb99eed9c86d7e52ef1100c29d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-2cafa0ff1d887e9f09a91a93ddaf8972.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -79,7 +79,7 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-fixed fullcontent quarto-light"><a id="quarto-skip-link" class="visually-hidden-focusable" href="#quarto-document-content">Skip to main content</a>
+<body class="nav-fixed about-page fullcontent quarto-light"><a id="quarto-skip-link" class="visually-hidden-focusable" href="#quarto-document-content">Skip to main content</a>
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -178,7 +178,26 @@ ul.task-list li input[type="checkbox"] {
 <section id="research-interests" class="level2">
 <h2 data-anchor-id="research-interests">Research interests</h2>
 <p>Chinese development finance · Critical minerals · Energy access · US-China clean energy supply chain · Geospatial methods · China in Africa · Energy/Environmental Policy</p>
-<!-- TODO: add earlier degrees from your CV -->
+<style>
+  /* Banner image across the top of the About page */
+  .about-page #quarto-content { position: relative; isolation: isolate; }
+  .about-page #quarto-content::before {
+    content: "";
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 220px;
+    background: url("images/banner.jpg") center / cover no-repeat;
+    z-index: -1;
+  }
+  .about-page main.content { padding-top: 110px; }
+  .about-page .about-contents { margin-top: 130px; border-left: none; }
+  .about-page .about-image { border: 5px solid #fff; box-shadow: 0 2px 12px rgba(0,0,0,.18); }
+  @media (max-width: 767px) {
+    .about-page #quarto-content::before { height: 170px; }
+    .about-page main.content { padding-top: 90px; }
+    .about-page .about-contents { margin-top: 0; }
+  }
+</style>
 
 
 </section>

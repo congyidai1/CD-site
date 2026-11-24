@@ -2,7 +2,7 @@
 title: "Congyi Dai"
 subtitle: "Postdoctoral Associate, Walsh School of Foreign Service, Georgetown University"
 pagetitle: "Congyi Dai"
-# TODO: replace with images/headshot.jpg (square, at least 600 x 600 px)
+body-classes: about-page
 image: images/headshot.jpg
 about:
   template: trestles
@@ -35,4 +35,25 @@ Chinese development finance · Critical minerals · Energy access · US-China cl
 
 
 
-<!-- TODO: add earlier degrees from your CV -->
+```{=html}
+<style>
+  /* Banner image across the top of the About page */
+  .about-page #quarto-content { position: relative; isolation: isolate; }
+  .about-page #quarto-content::before {
+    content: "";
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 220px;
+    background: url("images/banner.jpg") center / cover no-repeat;
+    z-index: -1;
+  }
+  .about-page main.content { padding-top: 110px; }
+  .about-page .about-contents { margin-top: 130px; border-left: none; }
+  .about-page .about-image { border: 5px solid #fff; box-shadow: 0 2px 12px rgba(0,0,0,.18); }
+  @media (max-width: 767px) {
+    .about-page #quarto-content::before { height: 170px; }
+    .about-page main.content { padding-top: 90px; }
+    .about-page .about-contents { margin-top: 0; }
+  }
+</style>
+```
