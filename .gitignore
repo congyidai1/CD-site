@@ -1,4 +1,7 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
+/.quarto/
+/_site/
+.Rproj.user/
+.DS_Store
+*_files/libs
+
+**/*.quarto_ipynb
